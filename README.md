@@ -22,7 +22,7 @@ I grouped all 11 intents into a 3-tier framework based on how much human involve
 
 ![Architecture Overview](./assets/Overview.drawio.png)
 
-> **Legend:** [View node type legend](./assets/legend.png)
+> **Legend:** [View node type legend](./assets/Legend.drawio.png)
 
 | Tier | Logic | Intents |
 |------|-------|---------|
@@ -57,10 +57,10 @@ A VA answering allergen questions over voice is a liability. If it gets it wrong
 
 | File | Description |
 |------|-------------|
-| [`deck/stakeholder-presentation.pdf`](./deck/stakeholder-presentation.pdf) | Full 19-slide executive presentation — business case, ROI model, architecture, growth roadmap |
-| [`deck/intent-detail-appendix.pdf`](./deck/intent-detail-appendix.pdf) | Individual slides for all 11 intents — flow summary, integrations, parameters per intent |
+| [`deck/stakeholder-presentation.pdf`](./deck/Stakeholder Presentation Final.pdf) | Full 19-slide executive presentation — business case, ROI model, architecture, growth roadmap |
+| [`deck/intent-detail-appendix.pdf`](./deck/Stakeholder Presentation Intents.pdf) | Individual slides for all 11 intents — flow summary, integrations, parameters per intent |
 | [`nlu/training-utterances.md`](./nlu/training-utterances.md) | 132 NLU training utterances across all 11 intents |
-| [`assets/intents/`](./assets/intents/) | Conversation flow diagrams for all 11 intents |
+| [`assets/intents/`](./assets/Intents/) | Conversation flow diagrams for all 11 intents |
 | [`assets/subflows/`](./assets/subflows/) | 7 sub-flow diagrams (Warm Transfer, CSAT, After Hours, CRM Ticket Creation, API Error, Contact Info Confirmation, Anything Else) |
 
 ---
