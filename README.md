@@ -57,8 +57,8 @@ A VA answering allergen questions over voice is a liability. If it gets it wrong
 
 | File | Description |
 |------|-------------|
-| [`deck/stakeholder-presentation.pdf`](./deck/Stakeholder Presentation Final.pdf) | Full 19-slide executive presentation — business case, ROI model, architecture, growth roadmap |
-| [`deck/intent-detail-appendix.pdf`](./deck/Stakeholder Presentation Intents.pdf) | Individual slides for all 11 intents — flow summary, integrations, parameters per intent |
+| [Stakeholder Presentation Final.pdf](./deck/Stakeholder%20Presentation%20Final.pdf) | Full 19-slide executive presentation — business case, ROI model, architecture, growth roadmap |
+| [Stakeholder Presentation Intents.pdf](./deck/Stakeholder%20Presentation%20Intents.pdf) | Individual slides for all 11 intents — flow summary, integrations, parameters per intent |
 | [`nlu/training-utterances.md`](./nlu/training-utterances.md) | 132 NLU training utterances across all 11 intents |
 | [`assets/intents/`](./assets/Intents/) | Conversation flow diagrams for all 11 intents |
 | [`assets/subflows/`](./assets/subflows/) | 7 sub-flow diagrams (Warm Transfer, CSAT, After Hours, CRM Ticket Creation, API Error, Contact Info Confirmation, Anything Else) |
