@@ -4,15 +4,14 @@ A solutions engineer take-home assignment. The fictional client (Za Pizza) provi
 
 ---
 
-## The Brief
+## The Challenge
 
-Za Pizza is a large US restaurant chain running an in-house call centre with 150 live agents. Their current system is a DTMF-only IVR — callers press numbers, there's no natural language understanding, and no intent detection. The goal: replace it with a voice-based virtual agent that reduces average handling time, cuts call queues, and decreases the volume of human-handled calls, without hurting CSAT.
+Modernize a legacy 150-agent DTMF IVR into a high-containment Voice AI experience using a fixed 11-intent schema — without degrading CSAT.
 
-The assignment had two parts.
-
-**Part 1 — NLU Training Data.** I was given 2 example utterances per intent and asked to produce 10 more for each of the 11 intents. The brief was assessing creativity and coverage — colloquial speech, frustrated callers, parameterised variants, edge cases.
-
-**Part 2 — Solution Design.** Using the same 11 intents, I designed a full virtual agent: conversation flows for every intent, integration mapping, fallback logic, KPIs, ROI model, and an executive-facing stakeholder presentation. No flows were provided — I built everything from the intent list up.
+**Solution:** A 3-tier containment architecture delivering $3.4M net Year-1 value and a projected CSAT improvement to 4.4.  
+**Validated Design:** Received explicit feedback during the Vonage Solutions Engineering process that the architecture was distinctive and the deck was highly effective for non-technical stakeholders. Advanced to final rounds.  
+**Scope:** Full discovery, architecture, NLU training data, conversation flows, and ROI modeling.  
+**Turnaround:** 48 hours.
 
 ---
 
