@@ -31,6 +31,31 @@ Global rules applied across all flows: max 2 collection attempts before fallback
 
 ---
 
+## Financial Impact
+
+[INSERT SLIDE 5 SCREENSHOT]
+*Projected 10-month cumulative savings — break-even at month 5.*
+
+The ROI model is built on a single conservative assumption: Tier 1 and Tier 2 
+intents achieve 70% containment. At Za Pizza's call volume, that deflects enough 
+agent-handled calls to recover implementation costs within 5 months and deliver 
+$3.4M net value in Year 1.
+
+---
+
+## Growth Roadmap
+
+[INSERT SLIDE 7 SCREENSHOT]
+*Post-launch expansion: personalization, proactive outreach, and autonomous error resolution.*
+
+The architecture is designed to grow. Phase 1 is containment and deflection. 
+Phase 2 layers in personalization via order history and CRM data. Phase 3 moves 
+from reactive to proactive — outbound status updates, autonomous error resolution, 
+and loyalty integration. Each phase builds on the same intent schema without 
+requiring a redesign.
+
+---
+
 ## Key Design Decisions
 
 **Full VA replacement over a hybrid IVR.**
