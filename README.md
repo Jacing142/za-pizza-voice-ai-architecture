@@ -47,8 +47,8 @@ For all Tier 3 intents, the VA collects complete context before handoff and pass
 **Upsell node in Order Delivery.**
 The brief was about cost reduction. But a VA that only deflects misses the revenue side. After order confirmation and before warm transfer, I added a lightweight upsell attempt triggered by a Menu KB query for relevant add-ons. One node, zero friction.
 
-**Allergy and dietary queries redirected to app/website.**
-A VA answering allergen questions over voice is a liability. If it gets it wrong, it's a health and legal issue. The flow catches these queries and redirects to the app where accurate, up-to-date information lives.
+**Risk Mitigation — Allergy & Dietary Queries.**
+Voice AI in a high-noise environment is a liability for health-sensitive data. I deliberately designed the VA to deep-link allergy and dietary queries to the app and website, where content is managed, versioned, and legally defensible. If the VA answers it wrong, it's a health and legal issue — not a UX one.
 
 ---
 
@@ -66,6 +66,6 @@ A VA answering allergen questions over voice is a liability. If it gets it wrong
 
 ## About
 
-I'm a solutions engineer and AI automation builder — I work across the full stack from pre-sales scoping and solution design through to building and deploying production-grade AI systems.
+I'm a Solutions Engineer and AI Strategist focused on building high-ROI conversational systems. I work across the full stack from pre-sales scoping and solution design through to building and deploying production-grade AI systems.
 
 [LinkedIn](https://www.linkedin.com/in/jai-goldberg142/) · [GitHub](https://github.com/Jacing142)
