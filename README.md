@@ -33,7 +33,7 @@ Global rules applied across all flows: max 2 collection attempts before fallback
 
 ## Financial Impact
 
-[INSERT SLIDE 5 SCREENSHOT]
+![Financial Impact](./assets/Financial%20Impact.png)
 *Projected 10-month cumulative savings — break-even at month 5.*
 
 The ROI model is built on a single conservative assumption: Tier 1 and Tier 2 
@@ -45,7 +45,7 @@ $3.4M net value in Year 1.
 
 ## Growth Roadmap
 
-[INSERT SLIDE 7 SCREENSHOT]
+![Growth Roadmap](./assets/Growth%20Roadmap.png)
 *Post-launch expansion: personalization, proactive outreach, and autonomous error resolution.*
 
 The architecture is designed to grow. Phase 1 is containment and deflection. 
