@@ -1,7 +1,5 @@
 # **Za Pizza — Enterprise Voice AI Virtual Agent | $3.4M Net ROI Architecture & Executive Deck**
 
-A solutions engineer take-home assignment. The fictional client (Za Pizza) provided basic context about their business and call centre operation. I was tasked with scoping, designing, and presenting a full virtual agent POC as if pitching to their executive stakeholders.
-
 ---
 
 ## The Challenge
